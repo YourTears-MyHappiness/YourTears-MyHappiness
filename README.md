@@ -3,5 +3,5 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29zZWh0NHBvdXY4eWVvYXp0MGM1cnNudmlkZDltNHIxYzByaWh4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yFCl5ILzCzhW8/giphy.gif"500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVjeGd0YzV2M3RxYzkzOWZjdDh6ZXBvbnhzenVvOHA3cWplOTZiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4a7PDI4JpkPss/giphy.gif"10"/>
 </div>
