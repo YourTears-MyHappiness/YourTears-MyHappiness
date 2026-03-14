@@ -7,5 +7,5 @@
 </div>
 
 <div id="header" align="center">
-  https://komarev.com/ghpvc/YourTears-MyHappines
+  <img src="https://komarev.com/ghpvc/YourTears-MyHappiness=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
