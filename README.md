@@ -21,5 +21,6 @@
  <img src="https://i.pinimg.com/736x/2c/30/f4/2c30f4dbec2b6c0989ab6ecd2f2a6793.jpg" width="200"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVjeGd0YzV2M3RxYzkzOWZjdDh6ZXBvbnhzenVvOHA3cWplOTZiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4a7PDI4JpkPss/giphy.gif"10"/>
  <img src="https://i.pinimg.com/736x/d4/51/dc/d451dc64fd5070bb96078ba511f16069.jpg" width="200"/>
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/1200x/d6/6a/9f/d66a9f8f7cabc040a5c18895596a10da.jpg"10"/>
+
+  <div id="header" align="center">
+   <img src="https://i.pinimg.com/1200x/d6/6a/9f/d66a9f8f7cabc040a5c18895596a10da.jpg" "/>
